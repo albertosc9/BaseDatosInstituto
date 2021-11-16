@@ -1,0 +1,2 @@
+alter table t_alumno modify column telefono int(11);
+ alter table t_alumno modify column email varchar(255);
